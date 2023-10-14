@@ -8,7 +8,7 @@ import { Outlet, RouterProvider, createBrowserRouter } from "react-router-dom";
 import About from "./src/about";
 import Contact from "./src/contact";
 import RestaurantMenu from "./src/restaurantmenu";
-import Profile from "./src/profileClass";
+import Profile from "./src/ProfileClass";
 
 
 
