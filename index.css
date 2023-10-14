@@ -133,8 +133,9 @@ a {
 /* search container CSS Start*/
 .search-container {
   margin: 100px auto 20px;
-  display: flex;
-  justify-content: end;
+  display: flex; 
+  justify-content: center; 
+  margin-right: 200px;
   align-items: center;
   width: 100%;
 }
@@ -164,8 +165,8 @@ a {
 }
 
 .search-container .search-btn {
-  border-bottom-right-radius: 5px;
-  border-top-right-radius: 5px;
+  /* border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px; */
   background-color: var(--light-blue);
   box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
   color: #ffffff;
@@ -179,6 +180,8 @@ a {
 .search-container .search-btn:hover {
   background-color: var(--light-red);
 }
+
+
 
 /* Search error message css Start*/
 .error-container {
