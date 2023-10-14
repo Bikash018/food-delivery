@@ -42,9 +42,7 @@ a {
 
 /* Header CSS Start*/
 
-body{
-  background-color:  pink;
-}
+
 .header {
   display: flex;
   justify-content: space-between;
