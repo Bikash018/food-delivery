@@ -28,10 +28,10 @@ export const Github_Repository_Name = "Namaste-React";
 export const Github_API_User = "https://api.github.com/users/";
 
 // Social Media Links
-export const Linkedin_Link = "https://www.linkedin.com/in/chetannada/";
-export const Twitter_Link = "https://twitter.com/ChetanNada";
-export const Github_Link = "https://github.com/chetannada";
-export const Email_Link = "mailto:call2chetannada@gmail.com";
+export const Linkedin_Link = "https://www.linkedin.com/in/bikash-kumar-prasad-0b509924a/";
+export const Twitter_Link = "https://x.com/prasadbikash23?t=xFs1ucJAbnx1qJH0mKYrcQ&s=09";
+export const Github_Link = "https://github.com/Bikash018";
+export const Email_Link = "mailto:bikashprasad101@gmail.com";
 
 // Github Authorization Token
 export const options = {
